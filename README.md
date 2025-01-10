@@ -27,3 +27,5 @@ This method is very simple, efficient, and doesn’t require anything like image
 
 ## Ressources
 https://medium.com/analytics-vidhya/eye-aspect-ratio-ear-and-drowsiness-detector-using-dlib-a0b2c292d706
+https://www.researchgate.net/figure/The-six-landmarks-taken-into-consideration-to-predict-the-eye-attributes-using_fig5_351144840
+
