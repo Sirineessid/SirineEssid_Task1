@@ -1,5 +1,11 @@
 # SirineEssid_Task1
-Eye Aspect Ratio (EAR) 
+This project detects and counts eye blinks in real-time using video processing and computer vision techniques. It uses the Eye Aspect Ratio (EAR) to identify blinks from a webcam feed or pre-recorded videos. This tool can be applied in areas such as fatigue monitoring for drivers, gaming applications...
+
+# Features
+Real-time face and eye detection.
+Blink detection based on the EAR (Eye Aspect Ratio).
+Accurate blink counting over a defined period.
+Supports both live webcam feeds and video files.
 ## What are facial landmarks that dlib detects:
 The dlib library can be used to detect a face in an image and then find 68 facial landmarks on the detected face.
 ![image](https://github.com/user-attachments/assets/94c5e9b8-6a5c-4fa1-9ff9-ada5fd705c90)
