@@ -4,8 +4,7 @@ This project detects and counts eye blinks in real-time using video processing a
  the 2 codes are in different colab notebook and this are the links:
  - Eye blink code 3 "https://colab.research.google.com/drive/1nNm3uYz8OQaNo-M_PY40m3pkT9BdqbMM?usp=sharing"
  - Eye blink detection "https://colab.research.google.com/drive/1znvDweZy-wxOWw_Dcr_qhdT11ld1zTtt?usp=sharing"
-   -->I have faced problems in resources for the f="Eye blibk detection code" it takes more than 4 hours running and for Eye blink code 3 it's the code the more functional(but with problems in opening web cams ,i check even autorisations,apps, python,the 0 and 1 method but in vain "
-   "Eye blink detection" is more detailed and commented then Eye blink code 3.
+   
 # Features
 Real-time face and eye detection.
 Blink detection based on the EAR (Eye Aspect Ratio).
