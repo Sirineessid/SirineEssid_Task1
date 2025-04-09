@@ -1,0 +1,8 @@
+##🔧 You’ll Need:
+Download the models from face-api.js and put them in /public/models/ or wherever your app serves static files.
+
+Models to download:
+
+tiny_face_detector_model-weights_manifest.json
+
+face_landmark_68_tiny_model-weights_manifest.json
