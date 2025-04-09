@@ -155,10 +155,7 @@ while True:
         print("Error: Could not read frame from video stream.")
         break  # Exit the loop if a frame cannot be read
 
-# Loop over frames from the video stream
-while True:
-    # if this is a file video stream, then we need to check if
-    # there any more frames left in the buffer to process
+
     if fileStream and not vs.more():
         break
     # grab the frame from the threaded video file stream, resize
